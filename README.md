@@ -8,7 +8,12 @@ https://dacon.io/competitions/official/236229/data
 평가 산식 : AUC (Area Under the ROC Curve)
 
 ## 결과
+**public**
 0.7797863924 -> 0.7965189873
+최종 136등
+**private**
+0.84763
+최종 39등
 
 ## 방법 
 - GridSearchCV
